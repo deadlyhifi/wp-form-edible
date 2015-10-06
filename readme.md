@@ -91,8 +91,8 @@ WordPress has a load of reserved field names, and if you're scratching your head
 `w`, `name`, `date`, `year`, `month`, `day`, `hour`, `minute`.
 beware, there may be more.
 
-[contactform7 FAQ](http://contactform7.com/faq/my-contact-form-always-redirects-to-404-error-page-after-submission/)
-[Ninnypants/Certain Form Elements Cause 404](https://ninnypants.com/blog/2011/02/07/certain-form-element-names-cause-404-in-wordpress/)
+* [contactform7 FAQ](http://contactform7.com/faq/my-contact-form-always-redirects-to-404-error-page-after-submission/)
+* [Ninnypants/Certain Form Elements Cause 404](https://ninnypants.com/blog/2011/02/07/certain-form-element-names-cause-404-in-wordpress/)
 
 ## Releases
 * 0.1 – 06/10/15
